@@ -10,13 +10,13 @@ harnesses, the conventions that keep agents on-rails, and the team practices tha
 make AI-forward delivery repeatable instead of lucky.
 
 #### What I'm working on
+- **[fabioluiz.dev](https://fabioluiz.dev)** — where I write up what I learn,
+  one Claude Code session at a time.
+- **AI-native team enablement** — a 12-week playbook for moving a team from
+  AI-assisted to AI-forward.
 - **The Agentic Engineer** — a book on engineering in the agentic era: the rules
   before the rules, scaffolding agents, and why each paradigm shift expands the
   profession rather than ending it.
-- **AI-native team enablement** — a 12-week playbook for moving a team from
-  AI-assisted to AI-forward.
-- **[fabioluiz.dev](https://fabioluiz.dev)** — where I write up what I learn,
-  one Claude Code session at a time.
 
 #### How I think about the work
 A junior engineer accepts the first output the model produces. A senior knows when
