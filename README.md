@@ -1,31 +1,43 @@
 ### Hi, I'm Fábio 👋
 
-AI-forward full-stack engineer in Vancouver, building the rails that AI agents —
-and the teams using them — run on.
+Senior software engineer in Vancouver. Twenty years building systems where failure is
+expensive: payment rails, heterogeneous third-party integrations, and the backends that
+have to reconcile them.
 
-The bottleneck in software has moved. Producing a plausible artifact is no longer
-the scarce skill; deciding *what* to build, setting the constraints an agent
-operates within, and owning the outcome is. I work on that layer: agentic
-harnesses, the conventions that keep agents on-rails, and the team practices that
-make AI-forward delivery repeatable instead of lucky.
+Most recently I integrated 30+ charging-station APIs and session-data sources into unified
+reporting that Canadian legal verifiers accepted, across 30+ customers. Before that I was
+the first engineer and CTO at a donations platform, building Stripe Connect, PayPal Billing
+Agreements, ACH and SEPA flows for thousands of nonprofits.
 
-#### What I'm working on
-- **[fabioluiz.dev](https://fabioluiz.dev)** — where I write up what I learn,
-  one Claude Code session at a time.
-- **AI-native team enablement** — a 12-week playbook for moving a team from
-  AI-assisted to AI-forward.
-- **The Agentic Engineer** — a book on engineering in the agentic era: the rules
-  before the rules, scaffolding agents, and why each paradigm shift expands the
-  profession rather than ending it.
+Since January 2026 I have been working on agentic engineering practice: harnesses that run
+coding agents under real constraints, and what it takes to make their output reviewable.
+
+#### What I'm building
+
+- **[nestjs-conduit-coach](https://github.com/fabioluiz1/nestjs-conduit-coach)**: 42,000
+  words on implementing the RealWorld spec with NestJS and MikroORM, structured as layered
+  agent contracts.
+- **[fastapi-react-microservices](https://github.com/fabioluiz1/fastapi-react-microservices)**:
+  async FastAPI and React/TypeScript monorepo with a harness that runs the agent inside
+  isolated git worktrees under branch and commit-message enforcement.
+- **[rails-react-terraform-aws](https://github.com/fabioluiz1/rails-react-terraform-aws)**:
+  Rails 8 and React on ECS Fargate, provisioned with Terraform, deployed by GitHub Actions
+  over OIDC rather than long-lived keys.
+
+The last two are deployment and tooling references rather than products, and their READMEs
+say so.
 
 #### How I think about the work
-A junior engineer accepts the first output the model produces. A senior knows when
-to reject it and how to steer toward a better one. The leverage is in building the
-environment that removes that variance ahead of time.
+
+A junior engineer accepts the first output the model produces. A senior knows when to reject
+it and how to steer toward a better one. The leverage is in building the environment that
+removes that variance ahead of time.
 
 #### Stack
-Ruby on Rails · React · Python / FastAPI · TypeScript · AWS · GCP · Kubernetes ·
-Terraform · Claude Code
+
+Ruby on Rails · Python / FastAPI · TypeScript / NestJS · React · PostgreSQL · Redis ·
+AWS · Terraform · Docker · GitHub Actions
 
 #### Find me
-🌐 [fabioluiz.dev](https://fabioluiz.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio--luiz/) · ✍️ writing about agentic engineering
+
+🌐 [fabioluiz.dev](https://fabioluiz.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio--luiz/)
