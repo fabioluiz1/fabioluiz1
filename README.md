@@ -29,9 +29,9 @@ say so.
 
 #### How I think about the work
 
-A junior engineer accepts the first output the model produces. A senior knows when to reject
-it and how to steer toward a better one. The leverage is in building the environment that
-removes that variance ahead of time.
+The senior role has shifted toward taste: knowing which output is worth keeping, and how to
+steer toward a better one. The leverage is in building the environment that removes that
+variance ahead of time.
 
 #### Stack
 
