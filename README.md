@@ -14,8 +14,8 @@ coding agents under real constraints, and what it takes to make their output rev
 
 #### What I'm building
 
-- **[nestjs-conduit-coach](https://github.com/fabioluiz1/nestjs-conduit-coach)**: 42,000
-  words on implementing the RealWorld spec with NestJS and MikroORM, structured as layered
+- **[nestjs-conduit-coach](https://github.com/fabioluiz1/nestjs-conduit-coach)**:
+  implementing the RealWorld spec with NestJS and MikroORM, structured as layered
   agent contracts.
 - **[fastapi-react-microservices](https://github.com/fabioluiz1/fastapi-react-microservices)**:
   async FastAPI and React/TypeScript monorepo with a harness that runs the agent inside
